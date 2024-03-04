@@ -4,7 +4,7 @@ import Button from "@/components/Button"
 import { useRouter } from "next/navigation"
 import { useCallback, useRef } from "react"
 
-const FormSearch = ({ buttonClass = "bg-[rgba(255,255,255,0.2)]", callbackFn }) => {
+const FormSearch = ({ buttonClass, callbackFn }) => {
     const { push } = useRouter()
     const term = useRef("")
 

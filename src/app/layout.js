@@ -11,7 +11,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body >
         <div className="grid place-items-center min-h-[100vh]">
           <div className="max-w-[340px] w-full h-full">
             {children}
