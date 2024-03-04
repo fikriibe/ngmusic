@@ -1,7 +1,11 @@
 ## 🚀 Logique  - React
 
 ## Demo
+![image](https://github.com/fikriibe/ngmusic/assets/49143372/99747f7a-587b-44c3-98c0-3ab873a6eb82)
 
+![image](https://github.com/fikriibe/ngmusic/assets/49143372/c6f168cf-5968-4064-b1c8-085db25367bc)
+
+![image](https://github.com/fikriibe/ngmusic/assets/49143372/9d11b2e6-d259-4fa7-a103-3fabe6ef2df5)
 
 
 ## Getting Started
